@@ -2,7 +2,7 @@
 
 This is my first capstone project for the Springboard Data Science Career Track. I want to predict the house prices at King County, Seattle, USA, based on multiple features using regression analysis.  This repository has the following files:
 
-1.  Jupyter Notebooks: These contain python codes of the project.  
+1.  House Sales in King County, USA_Predict house price-FINAL.ipynb: This contains the python codes of the project.  
      kc_house_data.csv : This contains the record of 21,613 house sales (from Kaggle).  
      
 2.  Data_Wrangling_Report.pdf  
