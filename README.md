@@ -6,7 +6,8 @@ This is my first capstone project for the Springboard Data Science Career Track.
 2.  Data_Wrangling_Report.pdf
 3.  Explotary Data Analysis.pdf
 4.  Inferential Statistics.pdf
-5.  
+5.  Milestone_Report_1.pdf
+6.  
 2.  Final report: This contains the final summary report (no codes).
 3.  Presentation slides: This is the presentation version of final rerport.
 datasets
