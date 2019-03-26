@@ -5,7 +5,8 @@ This is my first capstone project for the Springboard Data Science Career Track.
 1.  Jupyter Notebooks: These contain python codes and detailed descriptions for each part of project.
 2.  Data_Wrangling_Report.pdf
 3.  Explotary Data Analysis.pdf
-4.  
+4.  Inferential Statistics.pdf
+5.  
 2.  Final report: This contains the final summary report (no codes).
 3.  Presentation slides: This is the presentation version of final rerport.
 datasets
